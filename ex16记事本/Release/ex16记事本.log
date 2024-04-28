@@ -1,0 +1,41 @@
+﻿生成启动时间为 2024/4/28 14:43:56。
+     1>项目“E:\VS2010\VS2010Project\Project\ex16记事本\ex16记事本.vcxproj”在节点 2 上(rebuild 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Release\ex16记事本.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         E:\VS2010\VS2010\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt BControl.cpp BForm.cpp BHashStrK.cpp BMenuItem.cpp BReadLinesEx.cpp BWindows.cpp BWndBase.cpp main.cpp mdlOpenSaveDlg.cpp
+         BControl.cpp
+         BForm.cpp
+         BHashStrK.cpp
+         BMenuItem.cpp
+         BReadLinesEx.cpp
+         BWindows.cpp
+         BWndBase.cpp
+         main.cpp
+         mdlOpenSaveDlg.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"Release\template.res" template.rc 
+       Link:
+         E:\VS2010\VS2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\VS2010\VS2010Project\Project\ex16记事本\Release\ex16记事本.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\ex16记事本.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\VS2010\VS2010Project\Project\ex16记事本\Release\ex16记事本.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\VS2010\VS2010Project\Project\ex16记事本\Release\ex16记事本.lib" /MACHINE:X86 Release\template.res
+         Release\BControl.obj
+         Release\BForm.obj
+         Release\BHashStrK.obj
+         Release\BMenuItem.obj
+         Release\BReadLinesEx.obj
+         Release\BWindows.obj
+         Release\BWndBase.obj
+         Release\main.obj
+         Release\mdlOpenSaveDlg.obj
+         正在生成代码
+         已完成代码的生成
+         ex16记事本.vcxproj -> E:\VS2010\VS2010Project\Project\ex16记事本\Release\ex16记事本.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\VS2010\VS2010Project\Project\ex16记事本\Release\ex16记事本.exe;#1" /manifest "Release\ex16记事本.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         正在删除文件“Release\ex16记事本.unsuccessfulbuild”。
+         正在对“Release\ex16记事本.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\VS2010\VS2010Project\Project\ex16记事本\ex16记事本.vcxproj”(rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.66

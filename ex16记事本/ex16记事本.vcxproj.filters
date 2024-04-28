@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="BControl.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="BForm.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="BMenuItem.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="BWindows.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="BWndBase.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="BHashStrK.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="mdlOpenSaveDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="BReadLinesEx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="BControl.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="BForm.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="BMenuItem.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="BWindows.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="BWndBase.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="BHashStrK.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="mdlOpenSaveDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="BReadLinesEx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="template.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bitmap\bmp_COPY.BMP">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="bitmap\bmp_CUT.BMP">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="bitmap\bmp_NEW.BMP">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="bitmap\bmp_OPEN.BMP">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="bitmap\bmp_PASTE.BMP">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="bitmap\bmp_SAVE.BMP">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="bitmap\main.ico">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="bitmap\bmp_BACK.BMP">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="bitmap\bmp_COLOR.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="bitmap\bmp_CONCENTRATE.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="bitmap\bmp_DATE.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="bitmap\bmp_EXIT.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="bitmap\bmp_FONT.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="bitmap\bmp_HELP.BMP">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="bitmap\bmp_SAVEAS.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="bitmap\bmp_STATUS.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="bitmap\bmp_TOP.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="bitmap\bmp_REFRESH.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="bitmap\bmp_NOSTATUS.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="bitmap\bmp_Key.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="bitmap\Key.ico">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="bitmap\wait_il.cur">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="bitmap\bmp_Close.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="bitmap\bmp_RedUnPick.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="bitmap\bmp_RedPick.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="bitmap\bmp_BlackPick.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="bitmap\bmp_BlackUnPick.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="bitmap\bmp_BluePick.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="bitmap\bmp_BlueUnPick.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="bitmap\bmp_GreenPick.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="bitmap\bmp_GreenUnPick.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+  </ItemGroup>
+</Project>
